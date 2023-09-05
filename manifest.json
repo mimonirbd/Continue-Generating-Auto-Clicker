@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Continue Generating Auto Clicker",
+  "version": "1.0",
+  "description": "Auto clicks the 'Continue Generating' button on OpenAI Chat. Developed by: Mi Monir",
+  "permissions": [
+    "activeTab"
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://chat.openai.com/*"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}
