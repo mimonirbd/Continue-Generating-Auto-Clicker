@@ -1,6 +1,6 @@
 # Continue Generating Auto Clicker
 
-This Auto Clicker tool allows ChatGPT to automatically click the 'Continue Generating' button on the OpenAI Chat platform. Developed by Mi Monir, this tool can save you time and effort by automating the repetitive task of clicking the button.
+This Auto Clicker tool allows ChatGPT to automatically click the 'Continue Generating' button on the OpenAI Chat platform. Developed by [Mi Monir]()https://faceboook.com/mimonirbd/, this tool can save you time and effort by automating the repetitive task of clicking the button.
 
 ## Features
 - Automatically clicks the 'Continue Generating' button in OpenAI Chat.
